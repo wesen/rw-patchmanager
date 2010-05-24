@@ -1,0 +1,113 @@
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+102754 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) MIDI Update - Generic, midi-out:2) MIDI Update - Generic
+102754 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -b -I0x50 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi4116902630125096932.hex
+106895 [Thread-5] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+122282 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) MIDI Update - Generic, midi-out:2) MIDI Update - Generic
+122283 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -b -I0x50 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi1576540945334498812.hex
+126424 [Thread-9] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+20909 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Faderfox USB MIDI - Faderfox, midi-out:2) Faderfox USB MIDI - Faderfox
+20910 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -b -I0x50 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi8220249463690073807.hex
+25051 [Thread-4] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+1    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+17405 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+17406 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x50 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi6019789019184141127.hex
+17465 [Thread-3] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+39987 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+39987 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x50 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi4873091237293209102.hex
+40155 [Thread-7] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+36942 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+36943 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x50 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi896598306352275678.hex
+41182 [Thread-3] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(1),interrupted(null),timeout(false)
+46940 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+46940 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x50 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi166538804150724708.hex
+52107 [Thread-7] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(1),interrupted(null),timeout(false)
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+15362 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+15363 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi1910264731786271364.hex
+31519 [Thread-3] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+17621 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+17622 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi7168686740697655505.hex
+32848 [Thread-3] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+15610 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+15611 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi956380468840630303.hex
+15753 [Thread-3] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(1),interrupted(null),timeout(true)
+32156 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+32156 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi4346555119338636665.hex
+32323 [Thread-7] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(1),interrupted(null),timeout(true)
+33611 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+33612 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi8406270814646596433.hex
+33770 [Thread-11] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(1),interrupted(null),timeout(true)
+44915 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+44916 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi781901958178066238.hex
+60764 [Thread-15] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(1),interrupted(null),timeout(true)
+64867 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+64868 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi6807509484504665822.hex
+95492 [Thread-19] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(1),interrupted(null),timeout(true)
+112099 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+112099 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi4870105570335098165.hex
+123320 [Thread-23] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+181739 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+181739 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi4523670656092669274.hex
+192949 [Thread-27] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+259955 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+259955 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi7550901399719525484.hex
+271159 [Thread-31] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+15673 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+15673 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi707693057323546639.hex
+31852 [Thread-3] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+35391 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+35391 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi7842052575309556882.hex
+46582 [Thread-3] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+226704 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+226704 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi8919328428105394736.hex
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+17761 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+17761 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi6731765425206036894.hex
+37450 [Thread-3] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+43688 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+43688 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi7287223441215961097.hex
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+98073 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+98074 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi5218011341621533921.hex
+106749 [Thread-11] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(143),interrupted(null),timeout(false)
+0    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+14773 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+14774 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi5502655894579456113.hex
+115509 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+115510 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi8152738727226465797.hex
+126689 [Thread-7] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+130421 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+130421 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi6776544521474216819.hex
+141636 [Thread-11] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
+1    [Thread-2] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send located at: /Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send
+15239 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-in:2) Port 1 - Tahorng, midi-out:2) Port 1 - Tahorng
+15239 [AWT-EventQueue-0] DEBUG com.ruinwesen.midisend.RWMidiSend  - Invoking midi-send:/Users/manuel/code/mididuino-core/patchmanager/bin/midi-send/mac/midi-send -s -b -I0x41 -i 2 -o 2 /private/var/folders/vf/vfXC2vJGFH4krx0h-0GlD++++TI/-Tmp-/midi1791668987687414760.hex
+31425 [Thread-3] DEBUG com.ruinwesen.midisend.RWMidiSend  - midi-send:status(0),interrupted(null),timeout(false)
