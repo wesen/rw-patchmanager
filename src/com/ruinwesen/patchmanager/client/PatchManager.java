@@ -31,6 +31,7 @@ package com.ruinwesen.patchmanager.client;
 import java.io.File;
 import java.io.IOException;
 
+import name.cs.csutils.CSProperties;
 import name.cs.csutils.CSUtils;
 
 import org.apache.http.HttpVersion;
@@ -119,7 +120,14 @@ public class PatchManager {
     
     private void init() {
         initHTTPClient();
-        managerClient = new DefaultPatchManagerClient(httpclient, new ClientProtocol1());
+		File applicationUserdataDir = CSUtils
+		.getApplicationConfigDir("patchmanager");
+		File applicationPropertiesFile = new File(applicationUserdataDir, "config.properties");
+		CSProperties appProperties = new CSProperties();
+    	appProperties.putAll(CSUtils.loadProperties(applicationPropertiesFile));
+    	String managerUrl = appProperties.getProperty("manager.url");
+		
+        managerClient = new DefaultPatchManagerClient(httpclient, new ClientProtocol1(), managerUrl);
         patchindex = new PatchIndex(new File(patchManagerDir,"repository.index"),repositoryDir);
         repository = new ClientRepository(repositoryDir, patchindex);
     }
